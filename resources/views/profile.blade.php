@@ -28,8 +28,7 @@
 
         <h3> Torna alla <a href="/">Home</a>
         @endif
-
-
+        
     </main>
 </body>
 </html>

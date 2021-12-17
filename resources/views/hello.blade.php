@@ -15,7 +15,7 @@
         <nav>
             <ul>
                <li><a href="/">Home</a></li>
-                <li><a href="/profile">Profilo</a></li>
+                <li><a href="{{route('profile')}}">Profilo</a></li>
             </ul>
         </nav>
 
